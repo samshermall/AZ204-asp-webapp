@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\samsher\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\samsher\\.nuget\\packages"
+    ]
+  }
+}
